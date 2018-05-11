@@ -1,4 +1,4 @@
-# Binary-Calculators
+# Binary-Addition-Converter-Calculators
 There are 2 executable jar files. BinaryToDecimalConverter.jar converts from binary to decimal and vice versa. BinaryAdditionCalculator.jar calculates the addition of 2 binary numbers. 
 
 How to run the executable jar files:
